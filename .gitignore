@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.canary/
+.DS_Store
