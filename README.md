@@ -1,5 +1,7 @@
 # Canary — file integrity monitor with ransomware detection
 
+[![CI](https://github.com/arsheri07/canary/actions/workflows/ci.yml/badge.svg)](https://github.com/arsheri07/canary/actions/workflows/ci.yml)
+
 Point it at a folder. It fingerprints every file. Later, it tells you exactly
 what changed — and whether those changes look like an attack rather than
 someone doing their job.
